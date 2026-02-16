@@ -1,1 +1,2 @@
-
+print("Colaboración
+completada").
